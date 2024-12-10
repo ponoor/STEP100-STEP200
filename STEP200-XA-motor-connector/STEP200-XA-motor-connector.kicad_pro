@@ -492,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "step200-xa-conv/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
